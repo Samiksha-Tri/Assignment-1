@@ -1,0 +1,1 @@
+print("mySirG and telusko")
